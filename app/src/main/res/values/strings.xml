@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hw3Group33</string>
+    <string name="add_words">Add Words to search:</string>
+    <string name="match">Match Cases</string>
+    <string name="search">Search</string>
+    <string name="textview">TextView</string>
+    <string name="frequencies">Word Frequencies</string>
+    <string name="finish">Finish</string>
+</resources>
